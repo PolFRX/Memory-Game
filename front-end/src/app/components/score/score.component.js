@@ -2,7 +2,7 @@
 import { Component } from "../../utils/component";
 import { parseUrl } from "../../utils/utils";
 import template from "./score.component.html";
-import "./score.component.css";
+import "./score.component.scss";
 
     // TODO Step 3.1 create a class
     /* class ScoreComponent constructor */

@@ -1,7 +1,7 @@
 // TODO Step 6 import "./welcome.component.html"
 import { Component } from "../../utils/component"
 import template from "./welcome.component.html";
-import "./welcome.component.css";
+import "./welcome.component.scss";
 
 
     // TODO Step 3.1 create a class

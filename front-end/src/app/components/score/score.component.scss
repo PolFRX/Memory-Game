@@ -1,3 +1,5 @@
+@import "../../styles/_colors.scss";
+
 /*****
  * Score Component
  */
@@ -9,6 +11,11 @@
 
     /* When the animation is finished, start again */
     animation-iteration-count: infinite;
+}
+
+.score-cmp {
+    background-color: $secondary-background;
+    color: $secondary_txt;
 }
 
 @keyframes shake {
